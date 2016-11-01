@@ -1,0 +1,19 @@
+{
+	"name": "zz.fs",
+	"version": "2016111.0.0",
+	"description": "Node.js fs module wrapper for ZZ app.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.fs/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.fs.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
