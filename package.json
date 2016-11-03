@@ -1,6 +1,6 @@
 {
 	"name": "zz.fs",
-	"version": "20161103.0.0",
+	"version": "20161103.0.1",
 	"description": "Node.js fs module wrapper for ZZ app.",
 	"author": {
 		"name": "Artem Lytvynov",
